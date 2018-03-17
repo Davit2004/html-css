@@ -1,0 +1,30 @@
+header{
+  background: #aeaeae80;
+}
+*{
+  /*outline: auto;*/
+}
+header ul{
+  display: block;
+  list-style-type: none;
+  margin: 0px;
+  padding:0px;
+  text-align: center;
+}
+header ul li{
+  display:inline-block;
+  width: 74px;
+  height: 30px;
+  line-height: 30px;
+  background: #06dbe7;
+  margin: 0px  5px 0px 0px;
+}
+header ul li a {
+  text-decoration: none;
+}
+body {
+  margin: 0px;
+}
+div.contant{
+  background: #afafaf;
+}

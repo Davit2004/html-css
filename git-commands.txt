@@ -14,3 +14,6 @@ git commit -m "komentariayi text"
 
 # uxarkel giti mej
 git push
+
+# qashel popoxurtyunnern
+git pull

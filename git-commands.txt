@@ -1,0 +1,16 @@
+# ete chunes es papken apa arajin@ es commandn es anum
+git clone https://github.com/Davit2004/html-css.git
+
+# stugel giti vichak
+git status
+
+# avelacnel files {fayler} giti mej
+git add fayli_anunn
+# avelacnel bolor faylern
+git add .
+
+# grel comentaria mer aracnerin
+git commit -m "komentariayi text"
+
+# uxarkel giti mej
+git push
